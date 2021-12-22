@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NetCoreSwagger</name>
+    </assembly>
+    <members>
+        <member name="M:NetCoreSwagger.Controllers.TestController.Get">
+            <summary>
+            This is a simple Get Method
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
